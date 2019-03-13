@@ -5,7 +5,7 @@
   "icon": "images/icon.png",
   "description": "%extension.description%",
   "author": {
-    "name": "Shennie Yao"
+    "name": "tester"
   },
   "repository": {
     "type": "git",
